@@ -11,7 +11,7 @@
 <br />
  </p>
 
-Practice with Express JS (minimalist web framework for Node JS)
+<h2 align="center">Practice with Express JS (minimalist web framework for Node JS) </h2>
 <br />
 This is online store for selling programming courses, written with Express JS. In this project I am practicing to do:
 
